@@ -405,8 +405,6 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="General",Yeeaah! (720p) [Not 24/7]
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1 tvg-name="*** BRAZIL - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/4IRPTyM.png" group-title="BRAZIL",*** BRAZIL - github.com/Free-IPTV
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="BRAZIL",98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="BRAZIL",AgroBrasil TV
