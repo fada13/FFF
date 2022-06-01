@@ -555,7 +555,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-name="Television Galicia" tvg-id="" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="SPAIN",Television Galicia
 https://europa-crtvg.flumotion.com/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.buteco.com.br/wp-content/uploads/2009/04/everybodyhateschris-1.jpg" group-title="SERIES 24H",Todo Mundo Odeia o Chris
-rtmp://208.53.164.194/ctv playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?Top_Cine pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html
